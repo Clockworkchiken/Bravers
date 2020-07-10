@@ -1,4 +1,4 @@
-# 自動コーヒーを入れてくれるサービスロボット
+自動コーヒーを入れてくれるサービスロボット
 ### team Bravers
 
 shoji shipon kitajima
